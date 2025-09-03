@@ -19,3 +19,15 @@ The show is exciting. I enjoy the **fantasy aspect** of it also. The drama bring
 * The Librarians
 
 [My Activity](MyActivity.md)
+
+---
+
+## Tables
+
+
+| Name              | Reason                 | Birth | Death |
+| :---:             | :---:                  | :---: | :---: |
+| Heath Ledger      | Favorite Actor         | 04/04/1979 | 01/22/2008 |
+| Brandon Sanderson | Great Author           | 12/19/1975 | N/A |
+| Jackie Chan       | Great Actor            | 04/07/1954 | N/A |
+| J. R. R. Tolkien  | Favorite Book's Author | 01/03/1892 | 09/02/1973 |
