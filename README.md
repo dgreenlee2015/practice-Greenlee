@@ -31,3 +31,15 @@ The show is exciting. I enjoy the **fantasy aspect** of it also. The drama bring
 | Brandon Sanderson | Great Author           | 12/19/1975 | N/A |
 | Jackie Chan       | Great Actor            | 04/07/1954 | N/A |
 | J. R. R. Tolkien  | Favorite Book's Author | 01/03/1892 | 09/02/1973 |
+
+---
+
+## Favorite Quote
+
+>"The important thing is not to stop questioning."
+>
+>*Albert Einstein*
+
+>"Above all, don't fear difficult moments. The best comes from them."
+>
+>*Rita Levi-Montalcini*
