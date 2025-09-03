@@ -2,7 +2,7 @@
 
 # Greenlee
 
-### Game of Thrones
+## Game of Thrones
 
 The show is exciting. I enjoy the **fantasy aspect** of it also. The drama brings you into the story. THe **story arcs** of the characters are interesting.
 
@@ -17,3 +17,5 @@ The show is exciting. I enjoy the **fantasy aspect** of it also. The drama bring
 * Bluey
 * Leverage
 * The Librarians
+
+[My Activity](MyActivity.md)
