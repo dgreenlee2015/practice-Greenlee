@@ -4,9 +4,9 @@
 
 ## Game of Thrones
 
-The show is exciting. I enjoy the **fantasy aspect** of it also. The drama brings you into the story. THe **story arcs** of the characters are interesting.
+The show is exciting. I enjoy the **fantasy aspect** of it also. The drama brings you into the story. The **story arcs** of the characters are interesting.
 
-***
+---
 
 ## Lists
 
@@ -24,6 +24,7 @@ The show is exciting. I enjoy the **fantasy aspect** of it also. The drama bring
 
 ## Tables
 
+This is a table about people I would like or would have liked to meet. They are actors and authors. I find these people interesting. The table shows their name, the reason I would like to meet them, their birthday, and the date of their death (if they have died).
 
 | Name              | Reason                 | Birth | Death |
 | :---:             | :---:                  | :---: | :---: |
@@ -34,7 +35,7 @@ The show is exciting. I enjoy the **fantasy aspect** of it also. The drama bring
 
 ---
 
-## Favorite Quote
+## Favorite Quotes
 
 >"The important thing is not to stop questioning."
 >
@@ -43,3 +44,15 @@ The show is exciting. I enjoy the **fantasy aspect** of it also. The drama bring
 >"Above all, don't fear difficult moments. The best comes from them."
 >
 >*Rita Levi-Montalcini*
+
+---
+
+## Code Fencing
+
+This script is how to check if at least one element in an array passes the check for a function.
+
+```typescript
+const some = (arr: T[], fn: (t: T) => boolean = Boolean) => arr.some(fn);
+```
+
+<https://pieces.app/collections/typescript>
