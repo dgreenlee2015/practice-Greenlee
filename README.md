@@ -18,8 +18,6 @@ The show is exciting. I enjoy the **fantasy aspect** of it also. The drama bring
 * Leverage
 * The Librarians
 
-[My Activity](MyActivity.md)
-
 ---
 
 ## Tables
@@ -56,3 +54,6 @@ const some = (arr: T[], fn: (t: T) => boolean = Boolean) => arr.some(fn);
 ```
 
 <https://pieces.app/collections/typescript>
+
+[My Activity](MyActivity.md)
+
